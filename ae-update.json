@@ -1,6 +1,6 @@
 {
     "version":  "0.2.0",
     "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.2.0.zip",
-    "sha256":  "fe462011542c383843fffad00f9b45f0d545ff19e87328e2aacb08b658cdd6fb",
+    "sha256":  "8239b26a3867bb75f8f5c3893f26d843ea923ba9dbfd083e127510d33c8cae20",
     "notes":  "Samostatná aplikace: běží z libovolné složky, bez Open Rails. Pravý panel jako v editoru MSTS, vlevo skládací skupiny (Nástroje, Události), přehrání aktivity pod mapou."
 }
