@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.1",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.1.1.zip",
-    "sha256":  "badc6ed89349d029eb97e65dbf7f3f7049cfa65486faa47e2aebf38c3cc5e0ab",
-    "notes":  "Aktualizace se čtou přímo ze souborů v repozitáři."
+    "version":  "0.1.2",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.1.2.zip",
+    "sha256":  "ad70e77f46fd4206021b06218ac2a21fe22c24d47313b615f5449873013066af",
+    "notes":  "Aktualizace se instaluje sama, bez ptaní."
 }
