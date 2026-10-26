@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.1",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.2.1.zip",
-    "sha256":  "409d05419033bd7ed263eacdde28dfef0ce2941993ad7b0ccfe0ddc2a3d623aa",
-    "notes":  "Samostatná aplikace: běží z libovolné složky, bez Open Rails. Pravý panel jako v editoru MSTS, vlevo skládací skupiny (Nástroje, Události), přehrání aktivity pod mapou."
+    "version":  "0.3.0",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.3.0.zip",
+    "sha256":  "0890379137dc29ab09bfab2a63eb0f24bee2191c2bf3006f47d415cea8624adc",
+    "notes":  "Editor souprav (trainset s obrázky vozů, filtry, skládání tažením), vlaky v mapě, samostatné spuštění editoru souprav z úvodního okna."
 }
