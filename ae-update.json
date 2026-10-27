@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.0",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.3.0.zip",
-    "sha256":  "0890379137dc29ab09bfab2a63eb0f24bee2191c2bf3006f47d415cea8624adc",
-    "notes":  "Editor souprav (trainset s obrázky vozů, filtry, skládání tažením), vlaky v mapě, samostatné spuštění editoru souprav z úvodního okna."
+    "version":  "0.4.0",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.4.0.zip",
+    "sha256":  "2395d7958dfb8d4e02d2d83692afde2045725f9b1ec47e952a309da3019cbf23",
+    "notes":  "Simulace provozu jako ve hře (vlaky, vlak hráče na autopilota, návěstidla se světly jako ve hře a rychlostí), aktivní vlak a jeho sledování, další návěstidlo aktivního vlaku z modelu, stav vlaku podle simulace, editor souprav s náhledy vozidel, zpět původní adresáře MSTS, překlady."
 }
