@@ -1,6 +1,6 @@
 {
-    "version":  "0.4.0",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-0.4.0.zip",
-    "sha256":  "2395d7958dfb8d4e02d2d83692afde2045725f9b1ec47e952a309da3019cbf23",
-    "notes":  "Simulace provozu jako ve hře (vlaky, vlak hráče na autopilota, návěstidla se světly jako ve hře a rychlostí), aktivní vlak a jeho sledování, další návěstidlo aktivního vlaku z modelu, stav vlaku podle simulace, editor souprav s náhledy vozidel, zpět původní adresáře MSTS, překlady."
+    "version":  "1.0.0",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.0.0.zip",
+    "sha256":  "81f27532ffd866fc12d5904ae4c545f2ec08fbf30cbd98cefc6b8548f12627a1",
+    "notes":  "První plnohodnotná verze: servisy (nový servis, souprava, cesta kreslená v mapě, zastávky z cesty), počítačový provoz (.trf s AI servisy, časy odjezdu a jízdními řády), simulace provozu jako ve hře (vlak hráče na autopilota, návěstidla se světly jako ve hře a rychlostí), aktivní vlak a jeho sledování, další návěstidlo z modelu, editor souprav s náhledy vozidel, původní adresáře MSTS, překlady."
 }
