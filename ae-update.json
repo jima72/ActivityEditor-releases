@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.0.0.zip",
-    "sha256":  "81f27532ffd866fc12d5904ae4c545f2ec08fbf30cbd98cefc6b8548f12627a1",
-    "notes":  "První plnohodnotná verze: servisy (nový servis, souprava, cesta kreslená v mapě, zastávky z cesty), počítačový provoz (.trf s AI servisy, časy odjezdu a jízdními řády), simulace provozu jako ve hře (vlak hráče na autopilota, návěstidla se světly jako ve hře a rychlostí), aktivní vlak a jeho sledování, další návěstidlo z modelu, editor souprav s náhledy vozidel, původní adresáře MSTS, překlady."
+    "version":  "1.1.0",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.1.0.zip",
+    "sha256":  "09b85cb855be94faf6ab4ccbde69018948f3836b8a96a27135959917df9cb19e",
+    "notes":  "Úpravy cest jako v MSTS: okno Editor trasy, kontextová menu MSTS, šedé kolečko na koleji ve všech režimech, úvratě s pokračováním po hlavních větvích výhybek, barevné pruhy a šipky pro opakované průjezdy, vyčkávací body a úvratě jako kolečka se symbolem. Umístění volné soupravy (vlaku) do mapy, mazání událostí, návěstidla v nejrestriktivnějším stavu, nová aktivita s volbou trati, standardní lišta menu, výrazné tlačítko Editor souprav, nová souprava se nejdřív pojmenuje, upozornění na neuložené změny, rychlejší otevírání oken s ukazatelem průběhu."
 }
