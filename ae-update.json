@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.1.0.zip",
-    "sha256":  "09b85cb855be94faf6ab4ccbde69018948f3836b8a96a27135959917df9cb19e",
-    "notes":  "Úpravy cest jako v MSTS: okno Editor trasy, kontextová menu MSTS, šedé kolečko na koleji ve všech režimech, úvratě s pokračováním po hlavních větvích výhybek, barevné pruhy a šipky pro opakované průjezdy, vyčkávací body a úvratě jako kolečka se symbolem. Umístění volné soupravy (vlaku) do mapy, mazání událostí, návěstidla v nejrestriktivnějším stavu, nová aktivita s volbou trati, standardní lišta menu, výrazné tlačítko Editor souprav, nová souprava se nejdřív pojmenuje, upozornění na neuložené změny, rychlejší otevírání oken s ukazatelem průběhu."
+    "version":  "1.2.0",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.2.0.zip",
+    "sha256":  "e6b578e87cb1b2c267b1810a82cc21527342fc418b605cb358c482f83cbdef3d",
+    "notes":  "Editor souprav: velké otočné 3D náhledy, seznam souprav s filtry, hledání chybějících vozů v trainsetu i na internetu, jejich stažení a zařazení do trainsetu."
 }
