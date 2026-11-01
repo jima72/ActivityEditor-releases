@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.2.0.zip",
-    "sha256":  "e6b578e87cb1b2c267b1810a82cc21527342fc418b605cb358c482f83cbdef3d",
-    "notes":  "Editor souprav: velké otočné 3D náhledy, seznam souprav s filtry, hledání chybějících vozů v trainsetu i na internetu, jejich stažení a zařazení do trainsetu."
+    "version":  "1.3.0",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.3.0.zip",
+    "sha256":  "d6bec8d7c5d90330db49704938dadd62159525f067535b9daf610535de8169db",
+    "notes":  "Vyčkávací body se všemi volbami jako v Track Editoru. Provoz se v přehrávání zobrazuje až od času +0:00:00. Volné soupravy jsou vidět pořád a vypadají jako v MSTS, jdou levým tlačítkem myši posouvat po kolejišti, v obloucích se ohýbají po vozech a při otočení zůstává lokomotiva na místě."
 }
