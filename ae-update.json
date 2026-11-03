@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.0.zip",
-    "sha256":  "a6bc40387ccfd9cc6a7ad65d399d6d18ebe17e8c92a0c71a863bd5369629b6eb",
-    "notes":  "Otočné body: nový symbol natočený podle koleje a jejich posun po vlastní koleji (bez přejetí výhybky). Zrušena funkce Po ukončení otočit směr jízdy. Editor souprav: zvětšení náhledu vozu (F11), vůz vycentrovaný a zvětšený podle velikosti náhledu. Nová ikona plné obrazovky, aktivní nástroje bez modré čárky."
+    "version":  "1.5.2",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.2.zip",
+    "sha256":  "f629ed00b56d37e59b1f29f866946b935d8022703e0f90daa3e106e8fdfbda51",
+    "notes":  "Okno Počítačem řízená doprava: vybraný servis se ukáže na mapě - jeho cesta i vlak fialově. Každý průjezd mezi otočnými body má vlastní odstín fialové a šipky ukazují směr jízdy."
 }
