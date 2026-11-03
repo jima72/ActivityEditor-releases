@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.2",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.2.zip",
-    "sha256":  "f629ed00b56d37e59b1f29f866946b935d8022703e0f90daa3e106e8fdfbda51",
-    "notes":  "Okno Počítačem řízená doprava: vybraný servis se ukáže na mapě - jeho cesta i vlak fialově. Každý průjezd mezi otočnými body má vlastní odstín fialové a šipky ukazují směr jízdy."
+    "version":  "1.5.3",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.3.zip",
+    "sha256":  "7ecd60a43c0a5bba44fa11a63f107a298ed84a127f7bb8819239fe7584dc6ed1",
+    "notes":  "Konce nákladních kolejí se na mapě kreslí zelenými šikmými čárkami jako nástupiště. Při vypnuté cestě v horní liště se skryjí i body upravované cesty (otočné body, body na výhybkách)."
 }
