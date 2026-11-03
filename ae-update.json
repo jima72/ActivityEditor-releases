@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.3",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.3.zip",
-    "sha256":  "7ecd60a43c0a5bba44fa11a63f107a298ed84a127f7bb8819239fe7584dc6ed1",
-    "notes":  "Konce nákladních kolejí se na mapě kreslí zelenými šikmými čárkami jako nástupiště. Při vypnuté cestě v horní liště se skryjí i body upravované cesty (otočné body, body na výhybkách)."
+    "version":  "1.5.4",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.4.zip",
+    "sha256":  "51f5b0c0ef1f2116fd903409437351176838acff19f6c8267e50e85178487661",
+    "notes":  "Filtry v horní liště jako menu Zobrazit v MSTS (dvě řady): názvy nástupišť a kolejí, kilometrovníky, pohonné hmoty, omezení rychlosti, jízdní trasy, označení vozidel, trasové body. Jízdní trasy ukazují cesty použité v aktivitě, každou vlastní barvou, s kolečkem začátku a konce a názvem; načítají se samy po otevření aktivity. Konce nástupišť a kolejí se při oddálení zmenšují. Na konci nástupiště se zamkne kroužek; Parametry v menu nebo dvojklik nastaví počet cestujících na nástupišti pro aktivitu."
 }
