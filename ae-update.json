@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.5",
-    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.5.zip",
-    "sha256":  "e8cd2c43d790e51e62cc3019cefa62bcf8bc80a350bc0530e553f4f10bdc337d",
-    "notes":  "Tato verze byla ukončena: po spuštění zobrazí oznámení a zavře se. Žádné soubory nemaže ani nemění."
+    "version":  "1.5.6",
+    "url":  "https://raw.githubusercontent.com/jima72/ActivityEditor-releases/main/ActivityEditor-1.5.6.zip",
+    "sha256":  "65bef9e131584601e1d15015347b8cab7b57b6e4e52433986070448bb2ff7124",
+    "notes":  "Tato verze byla ukoncena: po spusteni zobrazi oznameni a zavre se. Neobsahuje zadny dalsi kod ani knihovny."
 }
